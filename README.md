@@ -1,5 +1,5 @@
 # chapter-to-file
-You need a linux distribution to run this. Tested on Manjaro Linux x86_64.
+You need a linux distribution to run this. Tested on Manjaro Linux x86_64. I also considered the name youtube playlist splitter, because it turns those wonderful video game music videos into individual files. Also, I put this in there so that you'd find it.
 ## How to execute:
 Disclaimer: I'm a good guy, but you shouldn't just blindly run any script on the internet. Maybe take a read first. Make sure it doesn't rm -rf / your directory. Or does a cypher to descrypt obscured code. And so on.
 ```
